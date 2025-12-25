@@ -1,0 +1,1 @@
+# cargo-privacy-policy
